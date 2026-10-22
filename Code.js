@@ -2,7 +2,7 @@ package Details;
 import java.util.Scanner;
 class Student {
  String USN;
- String Name;
+ String Name;    vvvvv
  String Branch;
  String Phone;
  void getDetails(Scanner sc) {
